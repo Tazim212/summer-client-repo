@@ -1,0 +1,11 @@
+:root {
+    --primary-color: #3498db; /* Default primary color */
+    --background-color: #ffffff; /* Default background color */
+    --text-color: #333333; /* Default text color */
+  }
+  
+  .dark-theme {
+    --primary-color: #ff9800; /* Dark theme primary color */
+    --background-color: #333333; /* Dark theme background color */
+    --text-color: #ffffff; /* Dark theme text color */
+  }
